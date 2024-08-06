@@ -1,6 +1,6 @@
 {
 	"name": "ss-scrape",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "SS.LV RSS Scraper",
 	"main": "index.js",
 	"scripts": {
@@ -10,7 +10,7 @@
 		"type": "git",
 		"url": "git+https://github.com/EEHoveckis/ss-scrape.git"
 	},
-	"author": "EEHoveckis",
+	"author": "EEHoveckis (Edgars Eduards Hoveckis)",
 	"license": "Unlicense",
 	"bugs": {
 		"url": "https://github.com/EEHoveckis/ss-scrape/issues"
